@@ -1,5 +1,5 @@
 {
-  "name": "@nino-pink/ts",
+  "name": "@ninopink/ts",
   "version": "1.0.0",
   "description": "TypeScript config for NinoPink projects",
   "main": "./tsconfig.json",
