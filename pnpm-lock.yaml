@@ -14,6 +14,11 @@ importers:
       nx:
         specifier: 18.0.5
         version: 18.0.5
+      typescript:
+        specifier: ^5.3.3
+        version: 5.3.3
+
+  packages/ts: {}
 
 packages:
 
