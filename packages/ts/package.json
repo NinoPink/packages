@@ -1,0 +1,9 @@
+{
+  "name": "@nino-pink/ts",
+  "version": "1.0.0",
+  "description": "TypeScript config for NinoPink projects",
+  "main": "./tsconfig.json",
+  "keywords": ["ts"],
+  "author": "NinoPink",
+  "license": "MIT"
+}
