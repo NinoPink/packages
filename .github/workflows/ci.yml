@@ -34,5 +34,5 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - uses: nrwl/nx-set-shas@v4
 
-      - run: pnpm exec n-cloud record -- pnpm prettier --check .
+      - run: pnpm exec nx-cloud record -- pnpm prettier --check .
       - run: pnpm exec nx affected -t lint test build
